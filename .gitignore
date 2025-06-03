@@ -24,4 +24,5 @@ go.work.sum
 
 # env file
 .env
-
+sample.mp3
+sample2.mp3
